@@ -1,0 +1,14 @@
+/* index.css or global.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Additional global styles */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply overflow-y-auto;
+}
