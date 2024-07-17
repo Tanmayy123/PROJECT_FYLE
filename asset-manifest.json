@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PROJECT_FYLE/static/css/main.0e63c451.css",
+    "main.js": "/PROJECT_FYLE/static/js/main.f3d08d54.js",
+    "static/js/453.8ab44547.chunk.js": "/PROJECT_FYLE/static/js/453.8ab44547.chunk.js",
+    "static/media/screenshot1.png": "/PROJECT_FYLE/static/media/screenshot1.429ae5e0e192db8444b2.png",
+    "static/media/box1.png": "/PROJECT_FYLE/static/media/box1.9917d5c3e96db8bb7f2d.png",
+    "static/media/img1.png": "/PROJECT_FYLE/static/media/img1.f66e29bc55059a6501b1.png",
+    "static/media/img3.png": "/PROJECT_FYLE/static/media/img3.c56e73683c77caafd095.png",
+    "static/media/img2.png": "/PROJECT_FYLE/static/media/img2.24a51daada165ad126a6.png",
+    "index.html": "/PROJECT_FYLE/index.html",
+    "main.0e63c451.css.map": "/PROJECT_FYLE/static/css/main.0e63c451.css.map",
+    "main.f3d08d54.js.map": "/PROJECT_FYLE/static/js/main.f3d08d54.js.map",
+    "453.8ab44547.chunk.js.map": "/PROJECT_FYLE/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e63c451.css",
+    "static/js/main.f3d08d54.js"
+  ]
+}
